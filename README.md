@@ -1,6 +1,6 @@
 ## Deploy link
 
-## portfolio-simrankarnwal.netlify.app
+## https://portfolio-simrankarnwal.netlify.app/
 
 # Getting Started with Create React App
 
