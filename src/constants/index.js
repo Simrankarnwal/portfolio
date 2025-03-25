@@ -105,7 +105,6 @@ technologies : [ "ReactJs", "JavaScript","Bootstrap",'Firebase'],
 ];
 
 export const CONTACT = {
-  address: "Gurugram ",
-  phoneNo: "+91 9027-923-240 ",
+ 
   email: "simrankarnwal111@gmail.com",
 };
